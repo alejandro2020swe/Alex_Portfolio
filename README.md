@@ -10,3 +10,7 @@ This dataset contains information on the popularity of Spotify's top tracks by t
 
 To use this dataset, simply download it and import it into your favorite data analysis tool. Then, you can begin to explore the data and look for patterns or trends. For example, you could compare the popularity of tracks by genre, or look at how release date affects a track's popularity. There are many possibilities for interesting analyses - it all depends on what you're curious about!
 
+| Column name | Description |
+|-------------|--------------|
+|artist |The artist of the track. (String)|
+
