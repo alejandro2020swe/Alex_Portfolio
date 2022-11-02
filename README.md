@@ -33,7 +33,7 @@ Every dataset used can be found under the Index of heart disease datasets from U
 [Repository](https://archive.ics.uci.edu/ml/machine-learning-databases/heart-disease/)
 
 
-[corazon analisis](https://github.com/alejandro2020swe/Alex_Portfolio/blob/main/Corazon-checkpoint.ipynb)
+[# Heart Failure Analysis ](https://github.com/alejandro2020swe/Alex_Portfolio/blob/main/Corazon-checkpoint.ipynb)
 
 
 
