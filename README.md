@@ -14,3 +14,7 @@ To use this dataset, simply download it and import it into your favorite data an
 |-------------|--------------|
 |artist |The artist of the track. (String)|
 
+[corazon analisis](https://github.com/alejandro2020swe/Alex_Portfolio/blob/main/Corazon-checkpoint.ipynb)
+
+
+
