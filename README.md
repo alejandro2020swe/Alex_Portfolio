@@ -1,18 +1,37 @@
 # Alex Portfolio
 
+In this page I put many projects with the propuse share my style of work and the insights of every dataset , you can find this datasets in the page of kaggle.
 
-Popularity of Spotify Top Tracks by Genre
 
-About this dataset
-The kaggle dataset Spotify Song Attributes is a collection of songs with various attributes such as danceability, energy, key, loudness, mode, speechiness, acousticness, instrumentalness, liveness, valence
+# Heart Failure Prediction Dataset
 
-This dataset contains information on the popularity of Spotify's top tracks by their respective genres. The data was scraped from Spotify's public API and includes information on the track's name, artist, popularity, release date, and more.
+##Context
 
-To use this dataset, simply download it and import it into your favorite data analysis tool. Then, you can begin to explore the data and look for patterns or trends. For example, you could compare the popularity of tracks by genre, or look at how release date affects a track's popularity. There are many possibilities for interesting analyses - it all depends on what you're curious about!
+Cardiovascular diseases (CVDs) are the number 1 cause of death globally, taking an estimated 17.9 million lives each year, which accounts for 31% of all deaths worldwide. Four out of 5CVD deaths are due to heart attacks and strokes, and one-third of these deaths occur prematurely in people under 70 years of age. Heart failure is a common event caused by CVDs and this dataset contains 11 features that can be used to predict a possible heart disease.
 
-| Column name | Description |
-|-------------|--------------|
-|artist |The artist of the track. (String)|
+People with cardiovascular disease or who are at high cardiovascular risk (due to the presence of one or more risk factors such as hypertension, diabetes, hyperlipidaemia or already established disease) need early detection and management wherein a machine learning model can be of great help.
+
+##Attribute Information
+
+| Attribute | Description |
+|--------------|--------------|
+| Age | age of the patient [years] |
+| Sex | sex of the patient [M: Male, F: Female] |
+| ChestPainType | chest pain type [TA: Typical Angina, ATA: Atypical Angina, NAP: Non-Anginal Pain, ASY: Asymptomatic] |
+| RestingBP | resting blood pressure [mm Hg] |
+| Cholesterol | serum cholesterol [mm/dl] |
+| FastingBS | fasting blood sugar [1: if FastingBS > 120 mg/dl, 0: otherwise] |
+| RestingECG | resting electrocardiogram results [Normal: Normal, ST: having ST-T wave abnormality (T wave inversions and/or ST elevation or depression of > 0.05 mV), LVH: showing probable or definite left ventricular hypertrophy by Estes' criteria] |
+|MaxHR | maximum heart rate achieved [Numeric value between 60 and 202]  |
+| ExerciseAngina | exercise-induced angina [Y: Yes, N: No] |
+| Oldpeak |  oldpeak = ST [Numeric value measured in depression] |
+| ST_Slope | the slope of the peak exercise ST segment [Up: upsloping, Flat: flat, Down: downsloping] |
+| HeartDisease | output class [1: heart disease, 0: Normal] |
+
+Every dataset used can be found under the Index of heart disease datasets from UCI Machine Learning Repository on the following link:
+
+[](https://archive.ics.uci.edu/ml/machine-learning-databases/heart-disease/)
+
 
 [corazon analisis](https://github.com/alejandro2020swe/Alex_Portfolio/blob/main/Corazon-checkpoint.ipynb)
 
