@@ -30,9 +30,7 @@ People with cardiovascular disease or who are at high cardiovascular risk (due t
 | ST_Slope | the slope of the peak exercise ST segment [Up: upsloping, Flat: flat, Down: downsloping] |
 | HeartDisease | output class [1: heart disease, 0: Normal] |
 
-Every dataset used can be found under the Index of heart disease datasets from UCI Machine Learning Repository on the following link:
-
-[Repository](https://archive.ics.uci.edu/ml/machine-learning-databases/heart-disease/)
+Every dataset used can be found under the Index of heart disease datasets from UCI Machine Learning Repository on the following link:[Repository](https://archive.ics.uci.edu/ml/machine-learning-databases/heart-disease/)
 
 
 
