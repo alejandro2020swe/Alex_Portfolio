@@ -5,7 +5,7 @@ In this page I put many projects with the propuse share my style of work and the
 
 # Heart Failure Prediction Dataset
 
-[Heart Failure Analysis ](https://github.com/alejandro2020swe/Alex_Portfolio/blob/main/Corazon-checkpoint.ipynb)
+[Heart Failure Analysis ](https://github.com/alejandro2020swe/Alex_Portfolio/blob/main/Heart%20Analysis-checkpoint.ipynb)
 
 ## Context
 
